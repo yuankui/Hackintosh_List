@@ -1,5 +1,7 @@
 # Hackintosh List - 我的黑苹果 EFI
 
+更多参考 https://zhih.me/hackintosh/#/desktop
+
 # 0-kext 文件夹
 
 最新kext 集合
